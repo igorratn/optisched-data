@@ -16,5 +16,14 @@
     "website": "www.testcenter.fake",
     "city": "Auto City",
     "notes": "Second mock contact to test fetch-triggered email"
+  },
+  {
+    "name": "Replit Tutors",
+    "email": "test@replit.com",
+    "phone": "555-555-1234",
+    "address": "123 Replit Lane",
+    "website": "https://replit.com",
+    "city": "Webville",
+    "notes": "Added via Replit test"
   }
 ]
