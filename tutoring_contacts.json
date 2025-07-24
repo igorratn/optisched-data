@@ -7,5 +7,14 @@
     "website": "www.mocktutors.com",
     "city": "Fakesville",
     "notes": "Test entry"
+  },
+  {
+    "name": "Automation Test Center",
+    "email": "auto@testcenter.fake",
+    "phone": "555-123-9999",
+    "address": "456 Trigger Ln",
+    "website": "www.testcenter.fake",
+    "city": "Auto City",
+    "notes": "Second mock contact to test fetch-triggered email"
   }
 ]
