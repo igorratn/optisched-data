@@ -25,5 +25,14 @@
     "website": "https://replit.com",
     "city": "Webville",
     "notes": "Added via Replit test"
+  },
+  {
+    "name": "Test Academy",
+    "email": "iratnere+test1@gmail.com",
+    "phone": "555-777-0007",
+    "address": "777 Mission Blvd",
+    "website": "https://testacademy.com",
+    "city": "Mission City",
+    "notes": "Live test with email"
   }
 ]
