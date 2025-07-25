@@ -10,13 +10,13 @@
     "processed": ""
   },
   {
-    "name": "Test Academy | test123@example.com | 555-777-0007 | 777 Mission Blvd | https://testacademy.com | Mission City | Trigger test | ",
-    "email": "",
-    "phone": "",
-    "address": "",
-    "website": "",
-    "city": "",
-    "notes": "",
+    "name": "Test Academy",
+    "email": "iratnere+test1@gmail.com",
+    "phone": "555-777-0007",
+    "address": "777 Mission Blvd",
+    "website": "https://testacademy.com",
+    "city": "Mission City",
+    "notes": "Test entry note",
     "processed": ""
   }
 ]
