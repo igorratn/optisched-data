@@ -8,5 +8,15 @@
     "city": "Concord, CA",
     "notes": "test run",
     "processed": ""
+  },
+  {
+    "name": "Test Academy | test123@example.com | 555-777-0007 | 777 Mission Blvd | https://testacademy.com | Mission City | Trigger test | ",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "website": "",
+    "city": "",
+    "notes": "",
+    "processed": ""
   }
 ]
