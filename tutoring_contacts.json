@@ -1,1 +1,47 @@
-
+[
+  {
+    "name": "Mock Tutors",
+    "email": "mock@example.com",
+    "phone": "555-123-4567",
+    "address": "123 Test St",
+    "website": "www.mocktutors.com",
+    "city": "Fakesville",
+    "notes": "Test entry"
+  },
+  {
+    "name": "Automation Test Center",
+    "email": "auto@testcenter.fake",
+    "phone": "555-123-9999",
+    "address": "456 Trigger Ln",
+    "website": "www.testcenter.fake",
+    "city": "Auto City",
+    "notes": "Second mock contact to test fetch-triggered email"
+  },
+  {
+    "name": "Replit Tutors",
+    "email": "test@replit.com",
+    "phone": "555-555-1234",
+    "address": "123 Replit Lane",
+    "website": "https://replit.com",
+    "city": "Webville",
+    "notes": "Added via Replit test"
+  },
+  {
+    "name": "Test Academy",
+    "email": "iratnere+test1@gmail.com",
+    "phone": "555-777-0007",
+    "address": "777 Mission Blvd",
+    "website": "https://testacademy.com",
+    "city": "Mission City",
+    "notes": "Live test with email"
+  },
+  {
+    "name": "Test Academy 2",
+    "email": "iratnere+test2@gmail.com",
+    "phone": "555-777-0002",
+    "address": "222 Mission Blvd",
+    "website": "https://testacademy2.com",
+    "city": "Mission City",
+    "notes": "Another test with a new email"
+  }
+]
