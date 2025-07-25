@@ -43,5 +43,15 @@
     "website": "https://testacademy2.com",
     "city": "Mission City",
     "notes": "Another test with a new email"
+  },
+  {
+    "name": "Test Academy",
+    "email": "iratnere+testflow@gmail.com",
+    "phone": "555-777-0001",
+    "address": "123 Test Rd",
+    "website": "www.testacademy.com",
+    "city": "Testville",
+    "notes": "Test run!",
+    "processed": ""
   }
 ]
