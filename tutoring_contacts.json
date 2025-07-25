@@ -34,5 +34,14 @@
     "website": "https://testacademy.com",
     "city": "Mission City",
     "notes": "Live test with email"
+  },
+  {
+    "name": "Test Academy 2",
+    "email": "iratnere+test2@gmail.com",
+    "phone": "555-777-0002",
+    "address": "222 Mission Blvd",
+    "website": "https://testacademy2.com",
+    "city": "Mission City",
+    "notes": "Another test with a new email"
   }
 ]
